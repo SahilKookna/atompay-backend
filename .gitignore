@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+AtomPay_Interview_Prep.docx
+AtomPay_Interview_Prep.pdf
+# environment variables
+.env
+.env.*
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+
+# test coverage
+coverage/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+
+# Claude Code local settings
+.claude/
